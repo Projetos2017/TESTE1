@@ -1,0 +1,16 @@
+1.Versionamento
+Introdução
+Configuração do ambiente
+Git Comandos
+init - definir repositório mestre
+clone - clonar repositório
+add - adicionar arquivos
+commit - gravar no repositório
+push - Gravar no GitHub
+pull - 
+Git Avançado
+reset
+stash
+diff - Verificar mudanças não rastreadas
+pull requests
+gitflow 
